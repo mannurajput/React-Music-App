@@ -1,0 +1,46 @@
+.card {
+  background-color: #ffe4c4 !important;
+  margin: 1.5rem 0rem 1.5rem 2rem;
+  width: 18rem;
+}
+
+.navbar {
+  background-color: #606469 !important;
+  justify-content: unset;
+}
+
+.logo-name {
+  color: #0352fc;
+  width: 30vw;
+}
+
+.logo-image {
+  height: 3rem;
+  width: 3rem;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.search-bar {
+  width: 100vmin;
+  height: 7vh;
+  border: none;
+  box-shadow: none;
+  background-color: #fff;
+}
+.logo-icons {
+  background-color: #fff;
+  height: 7vh;
+  margin-bottom: 1px;
+}
+
+/* 
+.seach-bar-div {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+} */
